@@ -3,7 +3,7 @@
 
 ## Um pouco sobre mim:
 <div>
-<p>Desenvolvedor front-end, <strong>aprendendo</strong> para back-end.</p>
+<p>Desenvolvedor front-end, <strong>aprendendo</strong> back-end. para um dia me tornar um full stack</p>
 </div>
 
 ## Contatos:
