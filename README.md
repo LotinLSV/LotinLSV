@@ -3,7 +3,7 @@
 
 ## Um pouco sobre mim:
 <div>
-<p>Desenvolvedor front-end, <strong>aprendendo</strong> back-end. para um dia me tornar um full stack</p>
+<p>Desenvolvedor Power Plataform Microsoft que integra serviços Low code, Automaçoes e B.I com API's Próprias ou mesmo de terceiros para um melhor manuseio das ferramentas de acordo com as demandas da empresa</p>
 </div>
 
 ## Contatos:
